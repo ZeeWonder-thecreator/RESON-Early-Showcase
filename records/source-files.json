@@ -1,0 +1,35 @@
+{
+  "organized_on": "2026-10-29",
+  "source_repository": "ZeeWonder-thecreator/TIMBRE-AI-Music-Analyzer",
+  "source_commit": "43077ce99ac28302cee6601a444c3c0b7e0071f2",
+  "files": [
+    {
+      "public_path": "early-templates/index.html",
+      "source_path": "templates/index.html",
+      "source_commit": "43077ce99ac28302cee6601a444c3c0b7e0071f2",
+      "sha256": "0218ee9031f6aba50edc9d6d44ddb5bd4489155826a9b940acad68c71493eaea",
+      "note": "未经渲染的历史前端模板；需要未公开的后端，不能作为完整分析程序运行"
+    },
+    {
+      "public_path": "early-templates/loading.html",
+      "source_path": "templates/loading.html",
+      "source_commit": "43077ce99ac28302cee6601a444c3c0b7e0071f2",
+      "sha256": "7442a5e74399c6175bb5f0cc8e6282a04d088bb4b73edd8fae9fc3dff191226c",
+      "note": "未经渲染的历史前端模板；需要未公开的后端，不能作为完整分析程序运行"
+    },
+    {
+      "public_path": "early-templates/result.html",
+      "source_path": "templates/result.html",
+      "source_commit": "43077ce99ac28302cee6601a444c3c0b7e0071f2",
+      "sha256": "dbb757fc421939f1ba341ac381e136301a9f2416740aa6f2fcddb2891140f63f",
+      "note": "未经渲染的历史前端模板；需要未公开的后端，不能作为完整分析程序运行"
+    },
+    {
+      "public_path": "early-templates/glossary.html",
+      "source_path": "templates/glossary.html",
+      "source_commit": "43077ce99ac28302cee6601a444c3c0b7e0071f2",
+      "sha256": "8b6df15d38b3ccdf8ea6e5ac7dae4d76a1a5299cf93dd4ed603a573c2f2bc104",
+      "note": "未经渲染的历史前端模板；需要未公开的后端，不能作为完整分析程序运行"
+    }
+  ]
+}
